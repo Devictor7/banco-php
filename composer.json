@@ -1,0 +1,21 @@
+{
+    "name": "Devictor7/banco-php",
+    "description": "Projeto desenvolvido para aumentar meus conhecimentos em desenvolvimento de um banco de dados em PHP",
+    "authors": [
+        {
+            "name": "Oto Victor Ribeiro Rezende",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        
+    }
+}
